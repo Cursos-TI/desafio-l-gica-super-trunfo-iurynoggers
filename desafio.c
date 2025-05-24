@@ -68,12 +68,5 @@ int main(){
     printf("A area: %.3f mil km\n", area2);
     printf("O pib: %.3f mi\n", pib2);
 
-
-
-
-
-
-
-
     return 0;
 }
